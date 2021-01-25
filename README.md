@@ -10,7 +10,7 @@
   
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### I am currently a sophomore at IIIT Sri City who loves to do competitive coding and Front-end Development. Exploring the field of Machine Learning currently. I like to take up challenges till they are behind my lappy screen.
-</div>
+
 ## 🔧 Technologies & Tools
 ![C++](https://img.shields.io/badge/-++-00599C?style=flat-square&logo=c)
 ![C](https://img.shields.io/badge/--00599C?style=flat-square&logo=c)
@@ -62,7 +62,7 @@
 [1]: https://twitter.com/Martin_Heinz_
 [2]: https://github.com/MartinHeinz
 [3]: https://www.linkedin.com/in/heinz-martin/
-
+</div>
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->

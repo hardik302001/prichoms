@@ -9,7 +9,7 @@
   <a href="https://twitter.com/Prichoms_12"><img src="https://img.icons8.com/fluent/48/4a90e2/twitter.png" width="5%"></a>
   </div>
  
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hola Amigos!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 #### I am currently a sophomore at IIIT Sri City who loves to do competitive coding and Front-end Development. Exploring the field of Machine Learning currently. I like to take up challenges till they are behind my lappy screen.
 
 # 🔧 Technologies & Tools

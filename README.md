@@ -3,7 +3,7 @@
 [![Header](https://github.com/prichoms/prichoms/blob/main/s1.png "Header")](https://prichoms.netlify.app/)
 
 
-  <p align="center">
+  <p style="text-align: center;">
   <a href="https://www.linkedin.com/in/priyam-bajpai-1b564a1a0"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/></a>
   <a href="mailto:bajpaipriyam90@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> </a>
   <a href="https://twitter.com/Prichoms_12"><img src="https://img.icons8.com/fluent/48/4a90e2/twitter.png" width="5%"></a>

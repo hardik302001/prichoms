@@ -7,14 +7,13 @@
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/priyam-bajpai-1b564a1a0)
   <a href="mailto:bajpaipriyam90@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> </a>
   <a href="https://twitter.com/Prichoms_12">
-  <img src="https://img.icons8.com/android/24/4a90e2/twitter.png" width="5%">
+  <img src="https://img.icons8.com/fluent/48/4a90e2/twitter.png" width="5%">
 </a>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+gfrfjkrgnkngntlhnlhh
+## &#x270d; 
 
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)

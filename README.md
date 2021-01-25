@@ -7,9 +7,10 @@
   <a href="https://www.linkedin.com/in/priyam-bajpai-1b564a1a0"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/></a>
   <a href="mailto:bajpaipriyam90@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> </a>
   <a href="https://twitter.com/Prichoms_12"><img src="https://img.icons8.com/fluent/48/4a90e2/twitter.png" width="5%"></a>
-  </div>
+  
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### I am currently a sophomore at IIIT Sri City who loves to do competitive coding and Front-end Development. Exploring the field of Machine Learning currently. I like to take up challenges till they are behind my lappy screen.
+</div>
 ## 🔧 Technologies & Tools
 ![C++](https://img.shields.io/badge/-++-00599C?style=flat-square&logo=c)
 ![C](https://img.shields.io/badge/--00599C?style=flat-square&logo=c)
